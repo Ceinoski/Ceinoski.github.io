@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Andres Ceinos</h1>
@@ -8,9 +7,11 @@
     height="80">
     <br>
     <a href="https://www.rit.edu/computing/department-software-engineering">SE website</a>
-
+     <br>
     * I wish to learn better what software engineers do and where they are most used
+    <br>
     * I'd like to make connections with other potential software engineers 
+    <br>
     * I'd like to learn how I can use my software engineering skills in the future
 
 </body>
