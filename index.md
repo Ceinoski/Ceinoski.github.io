@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Andres Ceinos</h1>
+<p>My name is Andres Ceinos. I went to the high school San Ignacio in PR. I enjoy socializing and meeting new people.
+    Some of my hobbies include playing sports and watching movies </p>
+    <img src="https://www.simplyrecipes.com/wp-content/uploads/2019/08/baked-bacon-Lead-1.jpg" alt="Simply Bacon" width="200"
+    height="80">
+    <br>
+    <a href="https://www.rit.edu/computing/department-software-engineering">SE website</a>
 
-You can use the [editor on GitHub](https://github.com/Ceinoski/Ceinoski.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+    * I wish to learn better what software engineers do and where they are most used
+    * I'd like to make connections with other potential software engineers 
+    * I'd like to learn how I can use my software engineering skills in the future
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ceinoski/Ceinoski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
